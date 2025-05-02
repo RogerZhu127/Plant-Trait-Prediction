@@ -11,5 +11,5 @@ To set up the environment to run the project. Make sure the following packages a
 Since this project involves using a vision transformer, running on a GPU is strongly recommended:
 [CUDA Installation Guide (NVIDIA)](https://developer.nvidia.com/cuda-downloads)
 ```
-!pip install torch torchvision pandas numpy scikit-learn Pillow
+!pip install torch torchvision pandas numpy scikit-learn xgboost Pillow
 ```
